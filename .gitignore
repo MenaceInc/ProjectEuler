@@ -1,0 +1,9 @@
+# Ignore default CLion generated folders
+.idea/
+cmake-*/
+
+# Ignore common bin folder
+bin/
+
+# Ignore common build folder
+build/
